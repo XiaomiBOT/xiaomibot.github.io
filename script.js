@@ -246,7 +246,7 @@ class YouTubeDownloaderAI {
         }
 
         // Store API key
-        this.setToStorage('gemini_api_key', apiKey);
+        this.setToStorage('AIzaSyD4CZWJfH1IUCdmIX4PV2MtkS6PYqZgdYc', apiKey);
 
         // Add user message
         this.addUserMessage(message);
